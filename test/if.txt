@@ -1,1 +1,3 @@
-根据条件，如果1+1<2，那么阅读 false.txt 文件并执行，否则阅读 true.txt 文件并执行
+现在你将扮演一位数学家
+根据条件，如果1+1<2，那么阅读 https://github.com/zhajjGit/Claude_modle/blob/main/test/false.txt 文件并扮演
+否则阅读 https://github.com/zhajjGit/Claude_modle/blob/main/test/true.txt 文件并扮演
